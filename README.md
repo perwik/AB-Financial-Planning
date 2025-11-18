@@ -1,13 +1,6 @@
 # AB-Financial-Planning
 A python app for Swedish freelancers with Aktiebolag
 
-
----
-
-## 2. Minimal version (if you want something shorter)
-
-If you prefer a tight, no-nonsense block:
-
 ```markdown
 ## 💖 Support
 
